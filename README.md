@@ -3,6 +3,7 @@
 Successfully developed an **Offline Library Management System (LMS)** for student use. This project enables users and administrators to manage book borrowing, returns, digital downloads, and user activity tracking — all without internet access.
 
 ---
+![lms temp](https://github.com/user-attachments/assets/9f282025-0c6c-429e-b4a0-2fe079444ee7)
 
 ## 🚀 Features
 
